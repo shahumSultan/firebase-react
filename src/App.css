@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.panel-title {
+  font-size: xx-large;
+  font-weight: bolder;
+  margin-bottom: 1rem;
+}
+
+.table {
+  background-color: #DCDCDC;
+  text-align: center;
+  color: #000000;
+}
